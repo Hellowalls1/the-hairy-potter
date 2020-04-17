@@ -1,4 +1,4 @@
-import { createPottery } from "./PotteryList.js"
+import { createPottery } from "./pottery/PotteryList.js"
 
 createPottery()
 
