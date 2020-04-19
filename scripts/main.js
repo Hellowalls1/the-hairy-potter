@@ -1,4 +1,6 @@
-import { createPottery } from "./pottery/PotteryList.js"
+import { getPottery } from "./sellPottery/potteryDataProvider.js"
+import { renderPottery } from "./sellPottery/PotteryList.js"
 
-createPottery()
 
+getPottery()
+    .then(renderPottery)

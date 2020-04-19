@@ -1,0 +1,44 @@
+{
+    "pottery": [
+      {
+        "id": 1,
+        "shape": "square",
+        "height": 7,
+        "weight": 8,
+        "cracked": "true",
+        "price": 40
+      },
+      {
+        "id": 1,
+        "shape": "square",
+        "height": 10,
+        "weight": 6,
+        "cracked": "true",
+        "price": 40
+      },
+      {
+        "id": 1,
+        "shape": "square",
+        "height": 11,
+        "weight": 4,
+        "cracked": "false",
+        "price": 40
+      },
+      {
+        "id": 1,
+        "shape": "square",
+        "height": 19,
+        "weight": 4,
+        "cracked": "false",
+        "price": 40
+      },
+      {
+        "id": 1,
+        "shape": "square",
+        "height": 18,
+        "weight": 4,
+        "cracked": "false",
+        "price": 40
+      }
+    ]
+}
