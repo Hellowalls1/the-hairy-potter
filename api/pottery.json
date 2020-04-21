@@ -9,7 +9,7 @@
         "price": 40
       },
       {
-        "id": 1,
+        "id": 2,
         "shape": "square",
         "height": 10,
         "weight": 6,
@@ -17,7 +17,7 @@
         "price": 40
       },
       {
-        "id": 1,
+        "id": 3,
         "shape": "square",
         "height": 11,
         "weight": 4,
@@ -25,7 +25,7 @@
         "price": 40
       },
       {
-        "id": 1,
+        "id": 4,
         "shape": "square",
         "height": 19,
         "weight": 4,
@@ -33,7 +33,7 @@
         "price": 40
       },
       {
-        "id": 1,
+        "id": 5,
         "shape": "square",
         "height": 18,
         "weight": 4,

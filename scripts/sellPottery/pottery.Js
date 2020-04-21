@@ -5,7 +5,7 @@ export const Pottery = (potteryObject) => {
           <div>${potteryObject.weight}<div>
           <div>${potteryObject.height}<div>
           <div>${potteryObject.price}<div>
-          <button id="sell_Pottery">Sell</button>
+          <button id="sell--${potteryObject.id}">Sell</button>
       </section>
       `
      }

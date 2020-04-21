@@ -21,4 +21,17 @@ export const renderPottery = () => {
 }
 
 
-eventHub.
+potteryListTarget.addEventListener("click", clickEvent => {
+    allPottery = usePottery()
+    if (event.target.id.startsWith("sell--")){
+        const [prefix, id] = clickEvent.target.id.split("--")
+    
+    const foundDelete = allPottery.find(potteryObject => {
+         potteryObject.id === id
+    })
+}
+ })
+
+ 
+  
+
