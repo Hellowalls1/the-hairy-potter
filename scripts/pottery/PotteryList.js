@@ -1,7 +1,4 @@
-const potteryToSell = [potteryObject]
-
-
-const newPotteryObject = (createPottery())
+const potteryToSell = []
 
 export let createPottery = (shape, weight, height) => {
     const pottery =  {
@@ -10,19 +7,17 @@ export let createPottery = (shape, weight, height) => {
         Weight: weight,
         Height: height
     }
-        return pottery
+      potteryToSell.push(pottery)
     
 }
 
 
 export const potteryKiln = (potteryObject, kilnTemperature) => {
     if (kilnTemperature > 2200) {
-        return cracked = true
+        potterytoSell.push[0](cracked = true)
     } else {
         if (kilnTemperature <= 2200 )
-        return cracked = false
+       potterytoSell.push[0](cracked = false)
     }
-}
 
-potteryKiln
 
